@@ -1,0 +1,6 @@
+{
+  "name": "dialogflow-nodejs-webhook-btc-price-sample",
+  "description": "a sample webhook for dialogflow",
+  "repository": "https://github.com/jaisanant0/btcprice-nodejs-webhook-assistant",
+  "keywords": ["api.ai", "webhook"]
+}
