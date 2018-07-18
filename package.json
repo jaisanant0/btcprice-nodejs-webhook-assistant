@@ -1,0 +1,20 @@
+{
+  "name": "apiai-nodejs-webhook-sample",
+  "version": "1.0.0",
+  "description": "a sample webhook (with authentication) for api.ai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaisanant0/btcprice-nodejs-webhook-assistant/"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "apiai",
+    "webhook"
+  ],
+  "dependencies": {
+    "request" : "2.87.0"
+  }
+}
